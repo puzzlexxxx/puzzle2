@@ -23,7 +23,7 @@ public class P2 {
     public static int b33(){return 0;}
 
  
-    public static int r44(){return 0;}
+    public static int r55(){return 0;}
     public static void main(String[] args) {
         // TODO code application logic here
         

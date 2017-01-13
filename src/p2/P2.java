@@ -20,6 +20,27 @@ public class P2 {
     public static int b31(){return 0;}
     public static int b34(){return 0;}
     public static int b35(){return 0;}
+    public static int b31(){return 0;}
+    public static int b34(){return 0;}
+    public static int b352e(){return 0;}
+    public static int b321(){return 0;}
+    public static int b324(){return 0;}
+    public static int b325(){return 0;}
+    public static int b321(){return 0;}
+    public static int b324(){return 0;}
+    public static int b325(){return 0;}
+    public static int b2321(){return 0;}
+    public static int b34(){return 0;}
+    public static int b235(){return 0;}
+    public static int b321(){return 0;}
+    public static int b34(){return 0;}
+    public static int b35(){return 0;}
+    public static int b31(){return 0;}
+    public static int b3422(){return 0;}
+    public static int b3225(){return 0;}
+    public static int b321(){return 0;}
+    public static int b324(){return 0;}
+    public static int b235(){return 0;}
     public static int b33(){
         String a="greg eres feo";
         return 747;    

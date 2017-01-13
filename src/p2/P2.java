@@ -17,6 +17,8 @@ public class P2 {
     public static int a1(){return 0;}
     public static int a2(){return 0;}
     public static int a3(){return 0;}
+    public static int b3(){return 0;}
+    public static int cc3(){return 0;}
 
     public static int b31(){return 0;}
     public static int b32(){return 0;}

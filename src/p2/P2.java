@@ -23,6 +23,9 @@ public class P2 {
     public static int b31(){return 0;}
     public static int b32(){return 0;}
     public static int b33(){return 0;}
+    public static int d33(){return 0;}
+    public static int e33(){return 0;}
+    public static int f33(){return 0;}
 
     public static void main(String[] args) {
         // TODO code application logic here

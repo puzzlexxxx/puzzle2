@@ -32,6 +32,34 @@ public class P2 {
         String a="greg eres feo";
         return 747;    
     }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;    
+    }
     public void agtmreps(){}
  
     public static int r55(){return 0;}

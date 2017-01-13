@@ -20,7 +20,9 @@ public class P2 {
 
     public static int b31(){return 0;}
     public static int b32(){return 0;}
-    public static int b33(){return 0;}
+    public static int b33(){
+        String a="greg eres feo";
+        return 747;}
 
  
     public static int r55(){return 0;}
